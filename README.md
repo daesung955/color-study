@@ -1,4 +1,4 @@
-# word-study
+# color-study
 
 This coding exercise is an exercise that provides an environment where you can study basic words.
 
