@@ -1,4 +1,17 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
 @import "reset.css";
 @import "variables.css";
+/*  components  */
+@import "components/main-colors.css";
 
+/*  Screens  */
+
+
+
+
+
+
+body {
+    width: 100%;
+    height: 100%;
+}
