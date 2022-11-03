@@ -1,3 +1,10 @@
+.main-color-box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
 .main-colors {
     width: 300px;
     height: 300px;
@@ -5,4 +12,19 @@
     margin-left: auto;
     margin-right: auto;
     margin-top: 70px;
+    position: relative;
+}
+
+
+.maincolor-chevron-right {
+    font-size: 30px;
+    position: absolute;
+    right: 100px;
+
+}
+
+.maincolor-chevron-left {
+    font-size: 30px;
+    position: absolute;
+    left: 100px;
 }

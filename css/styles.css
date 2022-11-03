@@ -3,13 +3,9 @@
 @import "variables.css";
 /*  components  */
 @import "components/main-colors.css";
+@import "components/main-word-boxes.css";
 
 /*  Screens  */
-
-
-
-
-
 
 body {
     width: 100%;
